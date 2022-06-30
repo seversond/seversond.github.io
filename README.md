@@ -20,3 +20,7 @@ Some projects in progress and not publicly available that may be of interest:
 - I have a custom timeseries plot to share.  I had to solve a unique
   visualization problem.  This particular plot showed the power of plotly for
   some tasks that used to be much more challenging.
+
+  ## Note!
+
+  One artifact is stored at https://seversondkshare.s3.amazonaws.com/viz_demo.html
